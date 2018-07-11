@@ -38,7 +38,6 @@ def selective_tweet_shortener(tweet_one)
       elsif paragraph.length <= 140
       paragraph
     end
-  end
 end
 
 def shortened_tweet_truncator(tweet)
